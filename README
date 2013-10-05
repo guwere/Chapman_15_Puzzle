@@ -7,4 +7,5 @@ The goal is to arrange the squares sequentially from 0 onwards. You can create a
 The black square represents the empty hole. To move it click on adjacent squares to the black box. 
 There is a bug right now where an unsolvable puzzle is generated even though the "generate solvable" option was selected. In such case the console will display a "false" message when you start the program. 
 
-To start the program type the command "java -jar Chapman\ 15\ Puzzle.jar" from the "Chapman_15_Puzzle_jar" directory 
+To start the program type the command "java -jar Chapman\ 15\ Puzzle.jar" from the "Chapman_15_Puzzle_jar" directory once you have downloaded/cloned the repository.
+The source files can be imported into a new Eclipse/Intellij or something else you use and compiled.
